@@ -36,7 +36,7 @@ Repository Visibility: `Private` or `Public`
 **Resources to assist with request**
 
 - Maturity Model Tiers: https://github.com/DSACMS/ospo-guide/blob/main/outbound/maturity-models.md
-- Repository Templates: https://github.com/DSACMS/ospo-guide/blob/main/outbound/maturity-models.md
+- Repository Templates: https://github.com/DSACMS/ospo-guide/blob/main/outbound/repository-templates-and-linters.md
 - Outbound Review Checklist: https://github.com/DSACMS/ospo-guide/blob/main/outbound/outbound-checklists.md
 
 ### Additional Notes (Optional)
