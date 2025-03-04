@@ -1,7 +1,7 @@
 ---
 name: "Request New Team"
 description: "Request the creation of new teams for a project."
-labels: ["help-desk", "team-request"]
+labels: ["help-desk", "team-request", "team-management"]
 assignees: []
 ---
 
