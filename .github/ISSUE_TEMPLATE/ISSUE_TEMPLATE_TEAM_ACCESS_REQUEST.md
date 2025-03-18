@@ -1,8 +1,9 @@
 ---
-name: "Request Team Access"
-description: "Request access to a team as a member."
-labels: ["help-desk", "access-request", "team-management"]
-assignees: []
+name: Request Team Access
+about: Request access to a team as a member
+title: Request Team Access
+labels: ["helpdesk", "access-request", "team-management"]
+assignees: @dsac-ospo
 ---
 
 ## Requesting Access to a Team as a Member
