@@ -1,9 +1,9 @@
 ---
 name: Request New Team
 about: Request the creation of new teams for a project
-title: Request New Team
+title: "[REQUEST]: New Team"
 labels: ["helpdesk", "team-request", "team-management"]
-assignees: @dsac-ospo
+assignees: "@dsac-ospo"
 ---
 
 ## Request New Teams for a Project
