@@ -1,7 +1,7 @@
 ---
 name: Request Team Access
 about: Request access to a team as a member
-title: "[REQUEST]: "
+title: "[REQUEST]: Team Access"
 labels: ["helpdesk", "access-request", "team-management"]
 assignees: "@dsac-ospo"
 ---
