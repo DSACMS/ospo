@@ -1,8 +1,9 @@
 ---
-name: "Request New Repository"
-description: "Request the creation of a new repository under DSACMS."
-labels: ["help-desk", "repo-request", "repo-management"]
-assignees: []
+name: Request New Repository
+about: Request the creation of a new repository under DSACMS
+title: "[REQUEST]: New Repository"
+labels: ["helpdesk", "repo-request", "repo-management"]
+assignees: "@dsac-ospo"
 ---
 
 ## Request a New Repository
