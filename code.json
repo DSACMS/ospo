@@ -12,7 +12,8 @@
         ],
         "usageType": [
             "openSource"
-        ]
+        ],
+        "exemptionText": ""
     },
     "organization": "Centers for Medicare & Medicaid Services",
     "repositoryURL": "https://github.com/DSACMS/ospo",
