@@ -14,68 +14,43 @@
     "usageType": [
       "openSource"
     ],
-    "exemptionText": ""
-  },
-  "organization": "Centers for Medicare & Medicaid Services",
-  "repositoryURL": "https://github.com/DSACMS/ospo",
-  "repositoryHost": "github.com/DSACMS",
-  "repositoryVisibility": "public",
-  "homepageURL": "",
-  "downloadURL": "",
-  "disclaimerURL": "",
-  "disclaimerText": "",
-  "vcs": "git",
-  "laborHours": 3009,
-  "reuseFrequency": {
-    "forks": 0,
-    "clones": 0
-  },
-  "platforms": [
-    "web"
-  ],
-  "categories": [
-    "help-desk",
-    "workflow-management"
-  ],
-  "softwareType": "standalone/web",
-  "languages": [
-    "Shell"
-  ],
-  "maintenance": "internal",
-  "contractNumber": [],
-  "SBOM": "https://github.com/DSACMS/ospo/network/dependencies",
-  "relatedCode": [],
-  "reusedCode": [],
-  "partners": [],
-  "date": {
-    "created": "2025-03-03T19:45:15Z",
-    "lastModified": "2025-11-10T17:14:47Z",
-    "metadataLastUpdated": "2025-12-01T02:01:40.638Z"
-  },
-  "tags": [
-    "help-desk",
-    "github-management"
-  ],
-  "contact": {
-    "email": "opensource@cms.hhs.gov",
-    "name": "CMS Open Source Team"
-  },
-  "feedbackMechanism": "https://github.com/DSACMS/ospo/issues",
-  "AIUseCaseID": "0",
-  "localisation": false,
-  "repositoryType": "tools",
-  "userInput": true,
-  "fismaLevel": "low",
-  "group": "CMS/OA/DSAC",
-  "projects": [
-    "ospo"
-  ],
-  "systems": [],
-  "subsetInHealthcare": [
-    "operational"
-  ],
-  "userType": [
-    "government"
-  ],
-  "maturityModelTier": 2
+    "softwareType": "standalone/web",
+    "languages": [
+        "Shell"
+    ],
+    "maintenance": "internal",
+    "contractNumber": [],
+    "SBOM": "https://github.com/DSACMS/ospo/network/dependencies",
+    "date": {
+        "created": "2025-03-03T19:45:15Z",
+        "lastModified": "2025-11-04T23:27:46Z",
+        "metadataLastUpdated": "2025-11-10T16:57:58.605Z"
+    },
+    "tags": [
+        "help-desk",
+        "github-management",
+        "featured"
+    ],
+    "contact": {
+        "email": "opensource@cms.hhs.gov",
+        "name": "CMS Open Source Team"
+    },
+    "feedbackMechanism": "https://github.com/DSACMS/ospo/issues",
+    "AIUseCaseID": "0",
+    "localisation": false,
+    "repositoryType": "tools",
+    "userInput": true,
+    "fismaLevel": "low",
+    "group": "CMS/OA/DSAC",
+    "projects": [
+        "ospo"
+    ],
+    "systems": [],
+    "subsetInHealthcare": [
+        "operational"
+    ],
+    "userType": [
+        "government"
+    ],
+    "maturityModelTier": 2
 }
