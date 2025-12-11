@@ -1,19 +1,21 @@
 {
-  "name": "ospo",
-  "version": "",
-  "description": "OSPO Help Desk",
-  "longDescription": "A repository that serves as the OSPO Help Desk for DSACMS requests regarding OSPO services in training, repository review, and GitHub Organization management.",
-  "status": "Development",
-  "permissions": {
-    "licenses": [
-      {
-        "name": "CC0-1.0",
-        "URL": "https://github.com/DSACMS/ospo/blob/main/LICENSE"
-      }
-    ],
-    "usageType": [
-      "openSource"
-    ],
+    "name": "ospo",
+    "version": "",
+    "description": "OSPO Help Desk",
+    "longDescription": "A repository that serves as the OSPO Help Desk for DSACMS requests regarding OSPO services in training, repository review, and GitHub Organization management.",
+    "status": "Development",
+    "permissions": {
+        "licenses": [
+            {
+                "name": "CC0-1.0",
+                "URL": "https://github.com/DSACMS/ospo/blob/main/LICENSE"
+            }
+        ],
+        "usageType": [
+            "openSource"
+        ],
+        "exemptionText": ""
+    },
     "softwareType": "standalone/web",
     "languages": [
         "Shell"
